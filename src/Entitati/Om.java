@@ -9,6 +9,10 @@ public class Om {
     public void setVarsta (int v){
         this.varsta = v;
     }
+    public int getVarsta() {
+        return varsta;
+    }
+
     public void setNume (String n){
         this.nume = n;
     }
